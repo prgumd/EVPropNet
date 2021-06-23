@@ -1,7 +1,7 @@
 # EVPropNet
 EVPropNet: Detecting Drones By Finding Propellers For Mid-Air Landing And Following
 
-**EVPropNet** by <a href="http://prg.cs.umd.edu"><i>Perception & Robotics Group</i></a> at the Department of Computer Science, <a href="https://umd.edu/">University of Maryland- College Park</a> and <a href="https://mavlab.tudelft.nl/"><i>Micro Air Vehicle Laboratory</i></a> at <a href="https://www.tudelft.nl/en/"><i>Delft University of Technology</i></a>
+**EVPropNet** by <a href="http://prg.cs.umd.edu"><i>Perception & Robotics Group</i></a> at the Department of Computer Science, <a href="https://umd.edu/">University of Maryland- College Park</a> and <a href="https://mavlab.tudelft.nl/"><i>Micro Air Vehicle Laboratory</i></a> at <a href="https://www.tudelft.nl/en/">Delft University of Technology</a>
 .
 
 ![EVPropNet: Detecting Drones By Finding Propellers For Mid-Air Landing And Following](http://prg.cs.umd.edu/research/EVPropNet_files/Banner.jpg)
