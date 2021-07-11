@@ -4,6 +4,11 @@ EVPropNet: Detecting Drones By Finding Propellers For Mid-Air Landing And Follow
 **EVPropNet** by <a href="http://prg.cs.umd.edu"><i>Perception & Robotics Group</i></a> at the Department of Computer Science, <a href="https://umd.edu/">University of Maryland- College Park</a> and <a href="https://mavlab.tudelft.nl/"><i>Micro Air Vehicle Laboratory</i></a> at <a href="https://www.tudelft.nl/en/">Delft University of Technology</a>
 .
 
+## Code (Now Released)
+
+*For running the code, please refer to our [wiki](https://github.com/prgumd/EVPropNet/wiki).* 
+
+
 ![EVPropNet: Detecting Drones By Finding Propellers For Mid-Air Landing And Following](http://prg.cs.umd.edu/research/EVPropNet_files/Banner.jpg)
 Applications presented in this work using the proposed propeller detection method for finding multi-rotors. (a) Tracking and following an unmarked quadrotor, (b) Landing/Docking on a flying quadrotor. Red and green arrows indicates the movement of the larger and smaller quadrotors respectively. Time progression is shown as quadrotor opacity. The insets show the event frames from the smaller quadrotor used for detecting the propellers of the bigger quadrotor using the proposed EVPropNet. Red and blue color in the event frames indicate positive and negative events respectively. Green color indicates the network prediction. Click on the image to zoom in.
 
@@ -17,9 +22,6 @@ In this paper, we model the geometry of a propeller and use it to generate simul
 - [Paper](https://prg.cs.umd.edu/research/EVPropNet_files/EVPropNet.pdf)
 - [arXiv Preprint](https://arxiv.org/abs/)
 
-## Code (Now Released)
-
-*For running the code, please refer to our [wiki](https://github.com/prgumd/EVPropNet/wiki).* 
 
 ## License:
-Copyright (c) 2021 Perception and Robotics Group (PRG)
+Copyright (c) 2021 Perception and Robotics Group (PRG).
