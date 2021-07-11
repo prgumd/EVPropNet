@@ -173,7 +173,7 @@ def main():
     Parser.add_argument('--ImgFormat', default='png', help='Image extension only used for M mode, Default: png')
     Parser.add_argument('--WritePath', default='/media/nitin/Education/DVSProp/Outputs/', help='Path to save results, Default: /media/nitin/Education/DVSProp/Outputs/')
     Parser.add_argument('--Vis', type=int, default=0, help='0 for disabling and 1 for enabling viusalization of outputs, Default: 0')
-    Parser.add_argument('--ImgSize', default='[480, 480, 1]', help='Image Size as a list, Default: [480, 480, 1]')
+    Parser.add_argument('--ImgSize', default='[480,480,1]', help='Image Size as a list (do not use spaces), Default: [480,480,1]')
     
 
     Args = Parser.parse_args()
