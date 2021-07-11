@@ -17,6 +17,8 @@ In this paper, we model the geometry of a propeller and use it to generate simul
 - [Paper](https://prg.cs.umd.edu/research/EVPropNet_files/EVPropNet.pdf)
 - [arXiv Preprint](https://arxiv.org/abs/)
 
+## Code (Now Released)
+
 *For running the code, please refer to our [wiki](https://github.com/prgumd/EVPropNet/wiki).* 
 
 ## License:
