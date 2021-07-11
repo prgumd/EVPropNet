@@ -12,6 +12,8 @@ Here's an example of EVPropNet output for drone detection and following:
 
 ![Detection And Following](https://github.com/prgumd/EVPropNet/blob/main/assests/Follow.gif)
 
+
+***
 ![EVPropNet: Detecting Drones By Finding Propellers For Mid-Air Landing And Following](http://prg.cs.umd.edu/research/EVPropNet_files/Banner.jpg)
 Applications presented in this work using the proposed propeller detection method for finding multi-rotors. (a) Tracking and following an unmarked quadrotor, (b) Landing/Docking on a flying quadrotor. Red and green arrows indicates the movement of the larger and smaller quadrotors respectively. Time progression is shown as quadrotor opacity. The insets show the event frames from the smaller quadrotor used for detecting the propellers of the bigger quadrotor using the proposed EVPropNet. Red and blue color in the event frames indicate positive and negative events respectively. Green color indicates the network prediction. Click on the image to zoom in.
 
