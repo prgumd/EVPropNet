@@ -6,7 +6,7 @@ EVPropNet: Detecting Drones By Finding Propellers For Mid-Air Landing And Follow
 
 ## Code (Now Released)
 
-*For running the code, please refer to our [wiki](https://github.com/prgumd/EVPropNet/wiki).* 
+#### *For running the code, please refer to our [wiki](https://github.com/prgumd/EVPropNet/wiki).* 
 
 Here's an example of EVPropNet output for drone detection and following:
 
